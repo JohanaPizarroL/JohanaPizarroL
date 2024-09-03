@@ -22,4 +22,3 @@ Here are some ideas to get you started:
   </div>
 
 
-  ![Snake gif](https://github.com/johanapizarrol/jhanapizarrol/blob/output/github-contribution-grid-snake.svg)
