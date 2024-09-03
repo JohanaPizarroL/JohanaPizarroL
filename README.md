@@ -22,4 +22,4 @@ Here are some ideas to get you started:
   </div>
 
 
-  ![Snake animation](https://github.com/johanapizarrol/johanapizarrol/blob/output/github-contribution-grid-snake.svg)
+  ![Snake gif](https://github.com/johanapizarrol/jhanapizarrol/blob/output/github-contribution-grid-snake.svg)
