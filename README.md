@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <div>
-  <a href="https://github.com/johanapizarrol">
+  <a href="https://github.com/JohanaPizarroL">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=johanapizarrol&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johanapizarrol&layout=compact&langs_count=16&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohanaPizarroL&layout=compact&langs_count=16&theme=dark"/>
   </div>
 
-
+  ![Snake gif](https://github.com/JohanaPizarroL/JohanaPizarroL/blob/output/github-contribution-grid-snake.svg)
